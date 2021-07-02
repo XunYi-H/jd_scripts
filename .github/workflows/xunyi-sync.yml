@@ -38,5 +38,5 @@ jobs:
         with:
           source_repo: "https://github.com/JDHelloWorld/jd_scripts.git"
           source_branch: "main"
-          destination_branch: "main"
+          destination_branch: "xunyi"
           github_token: ${{ secrets.PAT }}
